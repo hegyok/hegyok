@@ -68,3 +68,9 @@
 <a href="https://nerobot.eu">Nero Bot - Music streaming service - 10M users</a>
 <br>
 <a href="https://antiflood.systems">AntiFlood Networks - DDoS Protection and CDN (Paused)</a>
+<br>
+<a href="https://ip.hegy.xyz">ip.hegy.xyz - IP to location API</a>
+<br>
+<a href="https://cdn.hegy.xyz">cdn.hegy.xyz - Private image CDN service</a>
+<br>
+<a href="https://dstat.hegy.xyz">dstat.hegy.xyz - Dstat for testing my layer 7 DDoS protection</a>
