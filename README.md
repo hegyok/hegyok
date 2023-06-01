@@ -65,7 +65,7 @@
 ###
 
 <h3>My Projects:</h3>
-<a href="https://nerobot.eu">Nero Bot - Music streaming service - 10M users</a>
+<a href="https://nerobot.eu">Nero Bot - Music streaming service - 20M users</a>
 <br>
 <a href="https://antiflood.systems">AntiFlood Networks - DDoS Protection and CDN (Paused)</a>
 <br>
