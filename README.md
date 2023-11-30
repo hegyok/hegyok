@@ -64,12 +64,10 @@
 
 ###
 
-<h3>My Projects:</h3>
-<a href="https://nerobot.eu">Nero Bot - Music streaming service - 20M users</a>
+<h2>My Projects:</h2>
+<h3><a href="https://nerobot.eu">Nero Bot - Music streaming service - 50M users 500K servers</a><h3>
 <br>
-<a href="https://antiflood.systems">AntiFlood Networks - DDoS Protection and CDN (Paused)</a>
-<br>
-<a href="https://ip.hegy.xyz">ip.hegy.xyz - IP to location API</a>
+<a href="https://antiflood.systems">Panther Networks - DDoS Protection and CDN (Paused)</a>
 <br>
 <a href="https://cdn.hegy.xyz">cdn.hegy.xyz - Private image CDN service</a>
 <br>
