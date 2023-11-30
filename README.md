@@ -65,10 +65,10 @@
 ###
 
 <h2>My Projects:</h2>
-<h3><a href="https://nerobot.eu">Nero Bot - Music streaming service - 50M users 500K servers</a><h3>
+<h3><a href="https://nerobot.eu">Nero Bot - Music streaming service - 50M users 500K servers</a></h3>
 <br>
-<a href="https://antiflood.systems">Panther Networks - DDoS Protection and CDN (Paused)</a>
+<h3><a href="https://antiflood.systems">Panther Networks - DDoS Protection and CDN (Paused)</a></h3>
 <br>
-<a href="https://cdn.hegy.xyz">cdn.hegy.xyz - Private image CDN service</a>
+<h3><a href="https://cdn.hegy.xyz">cdn.hegy.xyz - Private image CDN service</a></h3>
 <br>
-<a href="https://dstat.hegy.xyz">dstat.hegy.xyz - Dstat for testing my layer 7 DDoS protection</a>
+<h3><a href="https://dstat.hegy.xyz">dstat.hegy.xyz - Dstat for testing my layer 7 DDoS protection</a></h3>
