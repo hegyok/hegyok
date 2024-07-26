@@ -63,9 +63,3 @@
 </div>
 
 ###
-
-<h2>My Projects:</h2>
-<h3><a href="https://nerobot.eu">Nero Bot - Music streaming service - 50M users 700K servers</a></h3>
-NeroBot is the go-to music bot service that elevates your listening experience to new heights. With an extensive library of tunes spanning genres, NeroBot is your personal DJ, ready to play the perfect soundtrack for any occasion.
-Used by millions of users worldwide.
-<h3><a href="https://cdn.hegy.xyz">cdn.hegy.xyz - Private image CDN service</a></h3>
